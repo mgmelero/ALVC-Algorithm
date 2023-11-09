@@ -8,7 +8,7 @@ This repository stores the algorithms of the project and all their components.
 The Main folder contains the main algorithm that performs the entire signal analysis process.
 The Statistics folder contains the statistical analysis algorithm that performs the statistical analysis of the previous results.
 And the Pruebas folder contains other functions that I wanted to test to optimise some processes but which are not in the developed algorithm.
-
+/n
 
 
 ***** HOW IT WORKS *****
