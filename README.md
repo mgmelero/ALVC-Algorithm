@@ -24,9 +24,9 @@ If you want to run the signal analysis algorithm, you must follow the steps belo
   5. Run the program.
 
 If you want to run the statistical analysis algorithm, you must follow the same steps as the previous algorithm. 
+ 
 
 
-
-> [!IMPORTANT]
+## IMPORTANT
 > It is important to know that the database requires specific structuring. If you use another database, you have to modify the FilesLoad.m function to adapt it to your database.
 > It is also important to know, that statistical analysis algorithm can only be carried out after obtaining the results of the previous processes.
